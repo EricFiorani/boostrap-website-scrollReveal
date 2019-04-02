@@ -1,5 +1,6 @@
 body{
   margin-top: 6em;
+  /* font-size: 1em; */
 }
 
 h1, h2, h3, h4, h5 {
@@ -53,4 +54,20 @@ p {
   font-size: 1em;
   color: #666;
   font-style: italic;
+}
+
+#info1 .info-right {
+  margin-top: 5em;
+}
+
+#info2 {
+  margin: 1.2em 0 3em 0;
+}
+
+#contact {
+  background:url(../img/image3.png);
+  padding: 2.2em;
+  color: #fff;
+  border-top: #333 0.4em solid;
+  border-bottom: #333 0.4em solid;
 }
